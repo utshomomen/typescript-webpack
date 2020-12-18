@@ -1,0 +1,11 @@
+tsc --init
+npm --init
+ npm install webpack webpack-cli ts-loader -D
+
+npm  install typescript -D 
+
+npm run build
+
+//dev server with live view
+
+npm run server
